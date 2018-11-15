@@ -1,0 +1,5 @@
+[dev]
+52.206.205.37
+[dev:vars]
+s3code=chuks-zone-61623
+domain=chuks-zone
